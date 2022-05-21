@@ -1,0 +1,34 @@
+@import url();
+@font-face {
+    font-family: 'myfont';
+    src: url('../font/Roboto-Black.ttf');
+}
+
+h2{
+    font-family: 'myfont';
+    font-weight: 900;
+    font-size: large;
+    text-align: center;
+    text-decoration: overline dotted orangered;
+  
+
+}
+p{
+    text-align: justify;
+    /* text-decoration: line-through; */
+    font-family: 'myfont';
+    font-weight: 200;
+    font-style: initial;
+    font-stretch: expanded;
+    text-transform: capitalize; 
+    text-indent: 100px;
+    
+}
+/* div,p{
+    color: orange;
+    letter-spacing: 5px;
+} */
+.a{
+    color: orange;
+    letter-spacing: 5px;
+}

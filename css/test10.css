@@ -1,0 +1,39 @@
+img{
+    float: left;
+}
+.col2{
+    float: left;
+    width: 50%;
+}
+h1{
+    color: orange;
+}
+li{
+    margin: 10px;
+    
+}
+.row{
+   clear:left;
+}
+.col{
+    margin-top: 40px;;
+    width: 24%;
+    height: 300px;
+    float: left;
+
+
+}
+.mother{
+ 
+    clear: left;
+    margin-top: 100px;
+ 
+}
+.coco{
+    height: 300px;
+    float: left;
+   
+}
+.father{
+    margin-top: 30px;
+}

@@ -1,0 +1,31 @@
+.col2{
+    float: right;
+    padding-right: 70px;
+
+}
+
+.father{
+    clear: right;
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 500px;
+    background-color: aqua;
+}
+
+.col{
+    float: left;
+    padding: 15px;
+}
+.grandfather{
+    clear: right;
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: blueviolet;
+}
+.col3{
+    float: left;
+    padding: 15px;
+    background-color:brown;
+}

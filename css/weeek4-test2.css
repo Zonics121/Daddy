@@ -1,0 +1,78 @@
+a{
+text-decoration: none;
+}
+nav{
+    display: flex;
+    border: 2px Solid azure;
+    background-color: aqua;
+    justify-content: flex-end;
+    
+
+}
+nav>ul>li{
+    display: inline-block;
+    padding: 20px;
+    margin-right: 40px;
+    position: relative;
+  
+}
+
+nav>ul>li:hover{
+    background-color: beige;
+}
+/* #first{
+     display: none;    
+  
+} */
+/* ul>li:hover #first{
+        display: inline-block;
+        background-color: aquamarine ;
+        position:absolute;
+        top: 50px;
+        left: -50px;
+        border: 3px solid red;
+        
+} */
+/* #first>ul>li{
+    width: 1000px;
+    padding: 20px;
+    justify-content: flex-start;
+}  */
+/* .text>ul>li{
+    
+    justify-content: flex-end;
+   
+
+} */
+/* .tt{
+    justify-content: flex-end;
+} */
+/* .second{
+    display: none;
+    float: right;
+} */
+
+.container{
+    display: flex;  
+    display: none;
+    position: relative;
+    width: 700px;
+
+}
+ul>li:hover .container{
+    display: block;
+    background-color: aqua;
+    position: absolute;
+    top: 70px;
+    left: -40px;
+    line-height: 40px;
+   
+
+}
+#sec{
+
+   
+  
+    display: inline-block;
+    margin: 40px;
+}
